@@ -11,5 +11,17 @@ git commit -m "some message"
 
 git log
 
+git branch <new branch>
+git switch dev
+
+git merge dev
+
+# Settings > Developer Settings
+
+git remote add origin https://github.com/bjitfreelancing/ML
+git remote -v
+
+git push origin main
+
 
 
