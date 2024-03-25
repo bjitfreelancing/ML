@@ -6,4 +6,8 @@ git config --global --list
 git config --global init.defaultBranch main
 
 git init
+git add <file name>
+git commit -m "some message"
+
+
 
